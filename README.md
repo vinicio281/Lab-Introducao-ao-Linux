@@ -165,7 +165,7 @@ Neste exercício, você usará um terminal bash para visualizar o sistema de aju
 
    A janela do terminal, no prompt de comando, mostrará o resultado do comando `man man`.
 
-   ![Figura: no prompt de comando, o comando man man foi inserido.](https://github.com/user-attachments/assets/b1f8bf00-7715-4b61-a72c-e78d26e17674)
+   <img width="1168" height="707" alt="image" src="https://github.com/user-attachments/assets/39cf9f0f-3c13-4c30-918a-40e348e1e06b" />
 
 ### Entendendo as Seções das Man Pages
 
